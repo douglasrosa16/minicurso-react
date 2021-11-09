@@ -19,6 +19,7 @@ function Lista(){
         const newArray = [...lista].filter(item => item.id !== id);
         
         setLista(newArray);
+        
     }
 
     return (
