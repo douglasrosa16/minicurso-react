@@ -8,3 +8,5 @@ https://glitter-jar-e32.notion.site/Instala-es-Importantes-1d5c3a953cc44e43b6d92
 Diagramas:
 https://whimsical.com/minicurso-react-EVdrkeqqrqE9kvise3Q2hR
 
+Aplicação no Netlify
+https://minicurso-react.netlify.app/
